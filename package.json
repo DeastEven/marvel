@@ -1,0 +1,15 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel publick/index.html --open",
+    "build": " parcel build publick/index.html"
+  },
+  "devDependencies": {
+    "parcel": "*",
+    "postcss-modules": "^3.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
